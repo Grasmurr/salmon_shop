@@ -1,0 +1,7 @@
+# created by virtualenv automatically
+config.py
+.idea
+/bin
+/lib
+/photos
+database.db
